@@ -1,7 +1,7 @@
 ----
 # Colorize_ratios Project
 
-** Deprecated/ancient school project. **
+## **Deprecated/ancient school project.**
 
 An image colorization project/algorithm attempt
 that uses a memory and CPU-intensive "color-by-example"
